@@ -23,4 +23,4 @@ Wordpress template for a child theme
 * [WordPress Codex about child themes](http://codex.wordpress.org/Child_Themes)
 * [Why child themes are so important](http://www.woothemes.com/2015/07/why-child-themes-matter/)
 * [**Child Theme Check** plugin](https://wordpress.org/plugins/child-theme-check/) (and [how does it work?](https://wptavern.com/child-theme-check-plugin-helps-wordpress-users-navigate-parent-theme-updates))
-* [Webmandesign child theme] (https://github.com/webmandesign/child-theme)
+* [Webmandesign child theme](https://github.com/webmandesign/child-theme)
